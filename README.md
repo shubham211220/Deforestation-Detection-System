@@ -1,1 +1,0 @@
-# Deforestation-Detection-System
